@@ -1,0 +1,9 @@
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\bin\Debug\MihanTakApp.exe.config
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\obj\Debug\MihanTakApp.csprojResolveAssemblyReference.cache
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\obj\Debug\MihanTakApp.Properties.Resources.resources
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\obj\Debug\MihanTakApp.csproj.GenerateResource.Cache
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\bin\Debug\MihanTakApp.exe
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\bin\Debug\MihanTakApp.pdb
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\obj\Debug\MihanTakApp.exe
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\obj\Debug\MihanTakApp.pdb
+C:\Users\kiarash7\Desktop\mihan\MihanTakApp\MihanTakApp\obj\Debug\MihanTakApp.Main.resources

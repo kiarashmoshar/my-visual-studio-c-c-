@@ -1,0 +1,9 @@
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\bin\Debug\mihan company.exe.config
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\obj\Debug\mihan company.csprojResolveAssemblyReference.cache
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\obj\Debug\mihan_company.Form1.resources
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\obj\Debug\mihan_company.Properties.Resources.resources
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\obj\Debug\mihan company.csproj.GenerateResource.Cache
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\bin\Debug\mihan company.exe
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\bin\Debug\mihan company.pdb
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\obj\Debug\mihan company.exe
+C:\Users\kiarash7\Desktop\mihan\mihan company\mihan company\obj\Debug\mihan company.pdb
